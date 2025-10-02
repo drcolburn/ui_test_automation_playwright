@@ -2,6 +2,19 @@
 
 A modern UI test automation framework built with Playwright for end-to-end testing.
 
+## GitHub Copilot prompt used to create this repository's content
+
+```
+Generate a Playwright test automation framework in TypeScript. The framework should include:
+
+1.  **Project Structure:**
+    *   A `tests` directory for test files.
+    *   A `pages` directory for Page Object Model (POM) files.
+    *   A `fixtures` directory for custom test fixtures.
+    *   A `utils` directory for helper functions.
+    *   A `playwright.config.ts` file with basic configurations (e.g., browser setup for Chromium, Firefox, WebKit, headless mode, base URL, retries, reporting).
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
